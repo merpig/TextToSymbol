@@ -1,0 +1,250 @@
+.letterDiv{
+    width: 20px;
+    height: 20px;
+    border: 2px solid grey;
+    margin: 2px;
+    display: inline-block;
+}
+.singleWord{
+    min-width: max-content;
+}
+.btn{
+    background-color: lightgray;
+    border-radius: 5%;
+}
+
+#letterSpace{
+    border: none;
+}
+
+#lettera{
+    border: 2px solid black;
+    border-left-color: white;
+    border-top-color: white;
+}
+
+#letterb{
+    border: 2px solid black;
+    border-left-color: white;
+    border-top-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letterc{
+    border: 2px solid black;
+    border-top-color: white;
+}
+
+#letterd{
+    border: 2px solid black;
+    border-top-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lettere{
+    border: 2px solid black;
+    border-right-color: white;
+    border-top-color: white;
+}
+
+#letterf{
+    border: 2px solid black;
+    border-right-color: white;
+    border-top-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letterg{
+    border: 2px solid black;
+    border-left-color: white;
+}
+
+#letterh{
+    border: 2px solid black;
+    border-left-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letteri{
+    border: 2px solid black;
+}
+
+#letterj{
+    border: 2px solid black;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letterk{
+    border: 2px solid black;
+    border-right-color: white;
+}
+
+#letterl{
+    border: 2px solid black;
+    border-right-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letterm{
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-left-color: white;
+}
+
+#lettern{
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-left-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lettero{
+    border: 2px solid black;
+    border-bottom-color: white;
+}
+
+#letterp{
+    border: 2px solid black;
+    border-bottom-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letterq{
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+}
+
+#letterr{
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letterw{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(-45deg);
+}
+
+#letterx{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(-45deg);
+
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lettery{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(45deg);
+}
+
+#letterz{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(45deg);
+
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letteru{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(135deg);
+}
+
+#letterv{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(135deg);
+
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#letters{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(225deg);
+}
+
+#lettert{
+    width:15px;
+    height:15px;
+    margin: 4px;
+    border: 2px solid black;
+    border-bottom-color: white;
+    border-right-color: white;
+    transform: rotate(225deg);
+
+    background-image: url("./dot.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
